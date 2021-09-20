@@ -1,26 +1,24 @@
 body {
     /* The font will be inherited by elements nested within the body tag */
-    font-family: 'Roboto', sans-serif;
-    background-color: #FFFFFF;
-    margin-left: 15%;
-    margin-right: 15%;
+    /* font-family: 'Roboto', sans-serif; */
+    /* background-color: #FFFFFF; */
+    /* margin-left: 15%; */
+    /* margin-right: 15%; */
 }
 
-.center {
+/* .center {
     display: block;
     margin-left: auto;
     margin-right: auto;
-}
-
-#headline {
+} */
+/* #headline {
     margin-left: auto;
     margin-right: auto;
-    width: 17em;
+    width: 17em; */
 }
 
-img {
+/* img {
     width: 100%;
     max-width: 900px;
-}
-
-div.background-text-box {}
+} */
+/* div.background-text-box {} */
